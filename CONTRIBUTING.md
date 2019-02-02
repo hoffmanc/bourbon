@@ -60,7 +60,6 @@ Bourbon uses Sass’s SCSS syntax and aligns to
 - No trailing whitespace.
 
 [sass guide]: https://github.com/thoughtbot/guides
-[SCSS-Lint]: https://github.com/brigade/scss-lint
 
 ### Documentation
 
